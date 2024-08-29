@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvLocationData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Attendance APP"
+        android:textSize="18sp" />
+    <Button
+        android:id="@+id/btnTakenAttendance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I have taken attendance"
+        android:layout_marginTop="150dp" />
+
+    <Button
+        android:id="@+id/btnCreateExcel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:enabled="false"
+        android:onClick="createAttendanceExcel"
+        android:text="Create Attendance Excel" />
+
+    <EditText
+        android:id="@+id/etFileName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="67dp"
+        android:hint="Enter Filename"
+        android:inputType="text" />
+
+
+</RelativeLayout>

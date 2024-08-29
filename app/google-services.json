@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "411672249625",
+    "firebase_url": "https://location-data-b5fe2-default-rtdb.firebaseio.com",
+    "project_id": "location-data-b5fe2",
+    "storage_bucket": "location-data-b5fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411672249625:android:8ea5307d2796a8340f3188",
+        "android_client_info": {
+          "package_name": "com.project.studentattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411672249625-gqf7i3uinqd89ngfu30f6a2d1ones8aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.studentattendance",
+            "certificate_hash": "31a8777cd921584fde4ac665bd5b1a5434e91673"
+          }
+        },
+        {
+          "client_id": "411672249625-eg552pfl6s8vljn2vnh8e8dd8eiibgeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJY2CFHUcycAig8Oj2IqAMSFEVLPsF9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411672249625-eg552pfl6s8vljn2vnh8e8dd8eiibgeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411672249625:android:57c6b35fd4ef2ba30f3188",
+        "android_client_info": {
+          "package_name": "com.rcciit.teacherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411672249625-i57qk4mta1f1mnat7mf5rp3efl20sro3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rcciit.teacherapp",
+            "certificate_hash": "31a8777cd921584fde4ac665bd5b1a5434e91673"
+          }
+        },
+        {
+          "client_id": "411672249625-eg552pfl6s8vljn2vnh8e8dd8eiibgeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJY2CFHUcycAig8Oj2IqAMSFEVLPsF9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411672249625-eg552pfl6s8vljn2vnh8e8dd8eiibgeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
